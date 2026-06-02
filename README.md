@@ -1,2 +1,2 @@
 # This is my Local Repo
-Local folder
+Local folder sent to github
